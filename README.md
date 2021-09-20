@@ -6,6 +6,7 @@ A solution manual for Cracking the Coding Interview book, mostly in C/C++.
 ##### In C/C++:
 - Stack - LinkedList Implementation
 - Queue - Doubly LinkedList Implementation
+- Quick Sort (need to be debugged)
 
 ##### In Java:
 - LinkedList
@@ -23,7 +24,6 @@ A solution manual for Cracking the Coding Interview book, mostly in C/C++.
 - BFS
 - DFS
 - Binary Search
-- Quick Sort
 - Merge Sort
 
 - various interview question solutions from the book
