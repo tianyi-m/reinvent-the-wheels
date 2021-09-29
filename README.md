@@ -6,6 +6,7 @@ A solution manual for Cracking the Coding Interview book, mostly in C/C++.
 ##### In C/C++:
 - Stack - LinkedList Implementation
 - Queue - Doubly LinkedList Implementation
+- Binary Search
 - Quick Sort
 - BFS
 - DFS
@@ -23,7 +24,6 @@ A solution manual for Cracking the Coding Interview book, mostly in C/C++.
 - Trie
 - Graph
 
-- Binary Search
 - Merge Sort
 
 - various interview question solutions from the book
