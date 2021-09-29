@@ -6,7 +6,7 @@ A solution manual for Cracking the Coding Interview book, mostly in C/C++.
 ##### In C/C++:
 - Stack - LinkedList Implementation
 - Queue - Doubly LinkedList Implementation
-- Quick Sort (need to be debugged)
+- Quick Sort
 
 ##### In Java:
 - LinkedList
