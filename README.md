@@ -8,6 +8,7 @@ A solution manual for Cracking the Coding Interview book, mostly in C/C++.
 - Queue - Doubly LinkedList Implementation
 - Binary Search
 - Quick Sort
+- Merge Sort
 - BFS
 - DFS
 
@@ -23,7 +24,5 @@ A solution manual for Cracking the Coding Interview book, mostly in C/C++.
 - minHeap
 - Trie
 - Graph
-
-- Merge Sort
 
 - various interview question solutions from the book
