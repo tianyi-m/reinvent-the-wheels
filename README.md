@@ -1,7 +1,11 @@
 # reinvent-the-wheels
-A solution manual for Cracking the Coding Interview book, mostly in C/C++.
+Various code revolving data structures and algorithms. Simutaniously A solution manual for Cracking the Coding Interview book, mostly in C/C++.
 
 #### Currently Include:
+
+##### In Python:
+- Codeforces problems
+- Leetcode problems
 
 ##### In C/C++:
 - Stack - LinkedList Implementation
